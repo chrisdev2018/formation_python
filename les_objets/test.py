@@ -6,5 +6,6 @@ _dictionnaire = {
     "troisieme":"carole"
 }
 
-print(_dictionnaire["deuxieme"])
+for cle, valeur in _dictionnaire.items():
+    print("\n cle : {} ; valeur : {}".format(cle, valeur))
 system('pause')
