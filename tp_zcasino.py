@@ -1,7 +1,7 @@
 from random import randrange
 from math import ceil
 import os
-
+#TODO : améliorer ce programme avec toutes les conditions de sorties tous les controles
 
 #def tour():
 cagnote = int(input("Votre cagnote de départ : "))
