@@ -1,4 +1,4 @@
-from os import *
+from os import system
 
 def les_chaines_de_caracteres():
     chaine = 'BONJOUR'
